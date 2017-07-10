@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://httpbin.org/</loc>
+</url>
+<url>
+  <loc>http://httpbin.org/encoding/utf8</loc>
+</url>
+<url>
+  <loc>http://httpbin.org/html</loc>
+</url>
+<url>
+  <loc>http://httpbin.org/robots.txt</loc>
+</url>
+<url>
+  <loc>http://httpbin.org/links/10/0</loc>
+</url>
+<url>
+  <loc>http://httpbin.org/forms/post</loc>
+</url>
+<url>
+  <loc>http://httpbin.org/xml</loc>
+</url>
+<url>
+  <loc>http://httpbin.org/links/10/1</loc>
+</url>
+<url>
+  <loc>http://httpbin.org/links/10/2</loc>
+</url>
+<url>
+  <loc>http://httpbin.org/links/10/3</loc>
+</url>
+<url>
+  <loc>http://httpbin.org/links/10/4</loc>
+</url>
+<url>
+  <loc>http://httpbin.org/links/10/5</loc>
+</url>
+<url>
+  <loc>http://httpbin.org/links/10/6</loc>
+</url>
+<url>
+  <loc>http://httpbin.org/links/10/7</loc>
+</url>
+<url>
+  <loc>http://httpbin.org/links/10/8</loc>
+</url>
+<url>
+  <loc>http://httpbin.org/links/10/9</loc>
+</url>
+</urlset>
